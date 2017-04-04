@@ -1,0 +1,7 @@
+{
+  "currencies": [
+    {"id":0, "name": "chr", "sign": "CHF", "fromDollar": 0.997705},
+    {"id":1, "name": "dollar", "sign": "$", "fromDollar": 1},
+    {"id":2, "name": "euro", "sign": "€", "fromDollar": 1.06575}
+  ]
+}

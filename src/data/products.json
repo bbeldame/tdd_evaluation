@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "_id": "58e38748a6a0c2b58c8647a9",
+      "price": "1484.57",
+      "picture": "http://placehold.it/32x32",
+      "age": 39,
+      "name": "Macdonald Dunlap",
+      "gender": "male",
+      "currency": "€"
+    },
+    {
+      "_id": "58e38748d4820083b6d1f452",
+      "price": "1664.73",
+      "picture": "http://placehold.it/32x32",
+      "age": 39,
+      "name": "Stout Zimmerman",
+      "gender": "male",
+      "currency": "$"
+    },
+    {
+      "_id": "58e387482abf778e49c69b41",
+      "price": "2564.02",
+      "picture": "http://placehold.it/32x32",
+      "age": 30,
+      "name": "Linda Mckenzie",
+      "gender": "female",
+      "currency": "$"
+    },
+    {
+      "_id": "58e38748cf9e0bff437f8ac5",
+      "price": "1903.47",
+      "picture": "http://placehold.it/32x32",
+      "age": 28,
+      "name": "Kitty Meyers",
+      "gender": "female",
+      "currency": "CHF"      
+    },
+    {
+      "_id": "58e38748a55a6b6a8c22888d",
+      "price": "2484.94",
+      "picture": "http://placehold.it/32x32",
+      "age": 25,
+      "name": "Tonya Everett",
+      "gender": "female",
+      "currency": "CHF"      
+    },
+    {
+      "_id": "58e38748a2c3d075500df156",
+      "price": "1730.59",
+      "picture": "http://placehold.it/32x32",
+      "age": 38,
+      "name": "William Hines",
+      "gender": "male",
+      "currency": "€"      
+    },
+    {
+      "_id": "58e387480b3ed1d6f8de2aba",
+      "price": "1181.80",
+      "picture": "http://placehold.it/32x32",
+      "age": 25,
+      "name": "Carter Mendoza",
+      "gender": "male",
+      "currency": "$"
+    },
+    {
+      "_id": "58e3874829e9622f342c1b17",
+      "price": "3805.14",
+      "picture": "http://placehold.it/32x32",
+      "age": 33,
+      "name": "Merritt Shepherd",
+      "gender": "male",
+      "currency": "€"      
+    },
+    {
+      "_id": "58e387487bc946372863d197",
+      "price": "3864.86",
+      "picture": "http://placehold.it/32x32",
+      "age": 22,
+      "name": "Jensen Blackwell",
+      "gender": "male",
+      "currency": "CHF"      
+    },
+    {
+      "_id": "58e3874815e0f35f2370fedb",
+      "price": "1043.46",
+      "picture": "http://placehold.it/32x32",
+      "age": 28,
+      "name": "Sims Reyes",
+      "gender": "male",
+      "currency": "CHF"
+    }
+  ]
+}
