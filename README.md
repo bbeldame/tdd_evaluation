@@ -1,3 +1,3 @@
-Realisation of a multi currency basket using TDD.
+Realisation of a multi currency basket using TDD in 3 hours.
 
-This is an application that sells humans from different countries, at differents currencies.
+This is a fake application that sells humans from different countries, at different currencies.
